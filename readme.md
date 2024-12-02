@@ -24,13 +24,14 @@ Ce projet est une démonstration des capacités modernes du web pour créer des 
 
 Voici un aperçu des technologies et outils utilisés dans le projet :  
 
-| Technologie      | Description                                             | Icone                                                                 
-|------------------|---------------------------------------------------------|----------------------------------------------------------------------|
-| **Three.js**     | Bibliothèque JavaScript pour créer des scènes 3D.       | ![Three.js](https://threejs.org/favicon.ico)                         |
-| **WebGL**        | API graphique pour le rendu interactif 2D et 3D.        | ![WebGL](https://img.icons8.com/ios-filled/50/000000/webgl.png)      |
-| **GLSL**         | Langage de shading pour les calculs d’effets visuels.   | ![GLSL](https://img.icons8.com/color/50/000000/code.png)             |
-| **Perlin Noise** | Génération procédurale pour des vagues réalistes.       |                                                                      |  
-| **Blender**      | Logiciel de modélisation 3D pour les assets de base.    | ![Blender](https://www.blender.org/favicon.ico)                      |
+| **Technologie**   | **Description**                                         | **Icone**                                                                                              
+|-------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| **Three.js**      | Bibliothèque JavaScript pour créer des scènes 3D.       | ![Three.js](https://threejs.org/favicon.ico)                                                                  |
+| **WebGL**         | API graphique pour le rendu interactif 2D et 3D.        | ![WebGL](https://img.icons8.com/ios-filled/50/000000/webgl.png)                                               |
+| **GLSL**          | Langage de shading pour les calculs d’effets visuels.   | ![GLSL](https://img.icons8.com/color/50/000000/code.png)                                                      |
+| **Perlin Noise**  | Génération procédurale pour des vagues réalistes.       | <img src="https://github.com/hNnicolas/raging-sea-project/raw/main/3dperlinnoise-variant2.jpeg" width="50" /> |
+| **Blender**       | Logiciel de modélisation 3D pour les assets de base.    | ![Blender](https://www.blender.org/favicon.ico)                                                               |
+
 
 ---
 
